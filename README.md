@@ -8,8 +8,9 @@
 
 ### 🖋️ Terminal: /home/mariaclara/about_me.sh
 
-* [cite_start]**Status**: Graduanda em **Engenharia de Computação** na **UNIFOR** — Previsão 2026.2[cite: 1, 9].
-* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**[cite: 7, 23].
+* [cite_start]**Status**: Graduanda em **Engenharia de Computação** na **UNIFOR**[cite: 9].
+* [cite_start]**Previsão de Conclusão**: 2026.2[cite: 9].
+* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**[cite: 7].
 * [cite_start]**Research**: Especialista em **Computação Paralela** e **Visão Computacional**[cite: 12, 13].
 * [cite_start]**Location**: `{"city": "Fortaleza", "state": "CE", "country": "BR"}`[cite: 2].
 
@@ -27,15 +28,25 @@
 
 ---
 
-### 💻 System Internals (Academic & Practical Experience)
+### 🔬 Projetos Acadêmicos (Hardware & Low-Level Focus)
+
+* [cite_start]**Sistemas Operacionais (Kernel Level)**: Implementação e análise de desempenho do algoritmo de substituição de páginas **WSClock** em linguagem **C**, com foco em gerenciamento de memória e eficiência de processos[cite: 11, 23].
+* [cite_start]**Computação Paralela e Concorrente**: Desenvolvimento de um sistema de **Multiplicação de Matrizes Distribuída** (C/Python), explorando conceitos de redes e sistemas distribuídos para otimização de processamento[cite: 12, 24].
+* [cite_start]**Processamento Digital de Imagem (Edge AI)**: Integração de redes neurais **YOLO** e técnicas de visão computacional para detecção de objetos em tempo real[cite: 13, 22].
+* [cite_start]**Sistemas de Dados Relacionais**: Criação de modelos e consultas otimizadas em **MySQL** para integração direta com aplicações de hardware e software[cite: 14, 21].
+* [cite_start]**Engenharia de Software & Modelagem**: Levantamento de requisitos e modelagem de sistemas complexos utilizando **UML** e Draw.io[cite: 15, 25].
+
+---
+
+### 💻 System Internals (Technical Skills Summary)
 
 | Module | Technical Knowledge | Application |
 | :--- | :--- | :--- |
-| **Kernel & OS** | Memória & Processos | [cite_start]Implementação do Algoritmo **WSClock** em C[cite: 11, 23]. |
-| **HPC** | Parallel Computing | [cite_start]Multiplicação distribuída de matrizes em C e Python[cite: 12]. |
-| **Edge AI** | YOLO & PDI | [cite_start]Visão Computacional e Redes Neurais para detecção de objetos[cite: 13, 22]. |
-| **Firmware** | Microcontroladores | [cite_start]Desenvolvimento de lógica de controle e sistemas em tempo real[cite: 7, 24]. |
-| **Database** | SQL Optimization | [cite_start]Modelagem relacional e consultas otimizadas em **MySQL**[cite: 14, 21]. |
+| **Kernel & OS** | Memória & Processos | [cite_start]Algoritmos de escalonamento e paginação (C)[cite: 11, 23]. |
+| **HPC** | Parallel Computing | [cite_start]Sistemas distribuídos e processamento concorrente[cite: 12, 24]. |
+| **Edge AI** | YOLO & PDI | [cite_start]Visão computacional aplicada ao baixo nível[cite: 13, 22]. |
+| **Firmware** | Microcontroladores | [cite_start]Desenvolvimento de lógica de controle em tempo real[cite: 20]. |
+| **Full Stack** | Web & Mobile | [cite_start]Desenvolvimento de apps (Node.js/PHP) e sistemas de gestão[cite: 18, 26]. |
 
 ---
 
