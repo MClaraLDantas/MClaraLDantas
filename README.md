@@ -1,62 +1,48 @@
-# 👋 Olá, eu sou Maria Clara
+# 👩‍💻 Maria Clara | Low-Level & Embedded Systems Engineer
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Engenheira+de+Computação;Especialista+em+Hardware+%26+Firmware;Sistemas+Embarcados+e+IoT;Sempre+explorando+o+baixo+nível!)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=while(alive)+{+code();+};Developing+at+Kernel+Level;Hardware+is+my+language;Computer+Engineer+Student" />
 </div>
-
-## 🎓 Sobre Mim
-
-* [cite_start]**Formação**: Graduanda em **Engenharia de Computação** pela **UNIFOR**[cite: 9].
-* [cite_start]**Foco Técnico**: Especialista em integração Hardware-Software e **Sistemas Embarcados**[cite: 7, 23].
-* [cite_start]**Áreas de Interesse**: Arquitetura de Computadores, **IA (Visão Computacional)** e **Sistemas Distribuídos**[cite: 12, 13, 22].
-* [cite_start]**Localização**: Fortaleza, CE[cite: 2].
 
 ---
 
-## 🛠️ Hard Skills (Foco em Engenharia)
+### 🖋️ Terminal: /home/mariaclara/about_me.sh
 
-### ⚙️ Baixo Nível & Sistemas Operacionais
+* [cite_start]**Status**: Graduanda em **Engenharia de Computação** na **UNIFOR** (2026.2)[cite: 9].
+* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**.
+* [cite_start]**Research**: Especialista em **Computação Paralela** e **Visão Computacional**[cite: 12, 13].
+* [cite_start]**Location**: `{"city": "Fortaleza", "state": "CE", "country": "BR"}`[cite: 2].
+
+---
+
+### 🛠️ Hardware Stack & Performance
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-### 🤖 Inteligência Artificial & Dados
-<p align="left">
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
-</p>
-
-### 🌐 Desenvolvimento & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ---
 
-## 🔬 Competências Técnicas & Acadêmicas
+### 💻 System Internals (Academic & Practical Experience)
 
-| Categoria | Tecnologia / Conceito | Experiência Aplicada |
+| Module | Technical Knowledge | Application |
 | :--- | :--- | :--- |
-| **Sistemas Operacionais** | Gerenciamento de Memória | [cite_start]Implementação do algoritmo **WSClock** em C[cite: 11, 23]. |
-| **Sistemas Distribuídos** | Computação Paralela | [cite_start]Multiplicação de matrizes distribuída (C/Python)[cite: 12, 24]. |
-| **Visão Computacional** | YOLO & PDI | [cite_start]Pré-processamento e redes neurais para detecção de objetos[cite: 13, 22]. |
-| **Engenharia de Software** | UML & Requisitos | [cite_start]Modelagem de sistemas e levantamento de requisitos[cite: 15, 25]. |
-| **Projetos Extencionistas** | Mobile & Estratégia | [cite_start]App **Preci Arte** e planejamento de estoque para artesãos[cite: 17, 18]. |
+| **Kernel & OS** | Memória & Processos | [cite_start]Implementação do Algoritmo **WSClock** em C[cite: 11, 23]. |
+| **HPC** | Parallel Computing | [cite_start]Multiplicação distribuída de matrizes (C/Python)[cite: 12]. |
+| **Edge AI** | YOLO & PDI | [cite_start]Visão Computacional e Redes Neurais para detecção[cite: 13, 22]. |
+| **Firmware** | Microcontroladores | [cite_start]Lógica de controle e sistemas em tempo real[cite: 7, 20]. |
+| **Database** | SQL Optimization | [cite_start]Modelagem relacional e consultas otimizadas em **MySQL**[cite: 14, 21]. |
 
 ---
 
-## 🌎 Idiomas & Contato
+### 🌎 System Language & Connectivity
 
-* [cite_start]**Inglês**: Nível Intermediário[cite: 28].
-* [cite_start]**Espanhol**: Nível Intermediário[cite: 29].
+* [cite_start]**English**: Intermediate Proficiency (v2.0)[cite: 28].
+* [cite_start]**Spanish**: Intermediate Proficiency (v1.5)[cite: 29].
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-nathan-a83418242/">
@@ -69,6 +55,15 @@
 
 ---
 
+### 📊 Git Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula&hide=html,css,php" />
+</div>
+
+---
 <p align="center">
-  <i>"Transformando conceitos complexos de hardware em soluções de software eficientes."</i>
+  <code>DEBUG: Success! Maria Clara is ready for new engineering challenges.</code>
 </p>
