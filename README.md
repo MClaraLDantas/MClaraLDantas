@@ -8,8 +8,8 @@
 
 ### 🖋️ Terminal: /home/mariaclara/about_me.sh
 
-* [cite_start]**Status**: Graduanda em **Engenharia de Computação** na **UNIFOR** (2026.2)[cite: 9].
-* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**.
+* [cite_start]**Status**: Graduanda em **Engenharia de Computação** na **UNIFOR** — Previsão 2026.2[cite: 1, 9].
+* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**[cite: 7, 23].
 * [cite_start]**Research**: Especialista em **Computação Paralela** e **Visão Computacional**[cite: 12, 13].
 * [cite_start]**Location**: `{"city": "Fortaleza", "state": "CE", "country": "BR"}`[cite: 2].
 
@@ -32,9 +32,9 @@
 | Module | Technical Knowledge | Application |
 | :--- | :--- | :--- |
 | **Kernel & OS** | Memória & Processos | [cite_start]Implementação do Algoritmo **WSClock** em C[cite: 11, 23]. |
-| **HPC** | Parallel Computing | [cite_start]Multiplicação distribuída de matrizes (C/Python)[cite: 12]. |
-| **Edge AI** | YOLO & PDI | [cite_start]Visão Computacional e Redes Neurais para detecção[cite: 13, 22]. |
-| **Firmware** | Microcontroladores | [cite_start]Lógica de controle e sistemas em tempo real[cite: 7, 20]. |
+| **HPC** | Parallel Computing | [cite_start]Multiplicação distribuída de matrizes em C e Python[cite: 12]. |
+| **Edge AI** | YOLO & PDI | [cite_start]Visão Computacional e Redes Neurais para detecção de objetos[cite: 13, 22]. |
+| **Firmware** | Microcontroladores | [cite_start]Desenvolvimento de lógica de controle e sistemas em tempo real[cite: 7, 24]. |
 | **Database** | SQL Optimization | [cite_start]Modelagem relacional e consultas otimizadas em **MySQL**[cite: 14, 21]. |
 
 ---
@@ -52,16 +52,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-### 📊 Git Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula&hide=html,css,php" />
-</div>
 
 ---
 <p align="center">
