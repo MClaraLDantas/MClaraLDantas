@@ -52,8 +52,7 @@
 
 ### 🌎 System Language & Connectivity
 
-* **Inglês**: Nível Intermédio (v2.0).
-* **Espanhol**: Nível Intermédio (v1.5).
+* **Inglês**: Nível Avançado.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-nathan-a83418242/">
