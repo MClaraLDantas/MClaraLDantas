@@ -1,70 +1,711 @@
-# 👩‍💻 Maria Clara | Low-Level & Embedded Systems Engineer
+```
+██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗    ███╗   ██╗ █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ██╗
+██║     ██║   ██║██╔════╝██╔══██╗██╔════╝    ████╗  ██║██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗  ██║
+██║     ██║   ██║██║     ███████║███████╗    ██╔██╗ ██║███████║   ██║   ███████║███████║██╔██╗ ██║
+██║     ██║   ██║██║     ██╔══██║╚════██║    ██║╚██╗██║██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╗██║
+███████╗╚██████╔╝╚██████╗██║  ██║███████║    ██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=while(alive)+{+code();+};Developing+at+Kernel+Level;Hardware+is+my+language;Computer+Engineer+Student" />
+
+# 🎮 PLAYER ONE: LUCAS NATHAN 🎮
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                          ▓
+▓    ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗    ▓
+▓    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗   ▓
+▓    ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝   ▓
+▓    ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗   ▓
+▓    ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║   ▓
+▓    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝   ▓
+▓                                                          ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ENGENHEIRO+DE+COMPUTACAO;DESENVOLVEDOR+FULL+STACK;MESTRE+EM+IA+E+SISTEMAS+EMBARCADOS;PRESS+START+TO+CONTINUE...)](https://git.io/typing-svg)
+
+![Level](https://img.shields.io/badge/LEVEL-25-00ff00?style=for-the-badge&logo=&logoColor=white)
+![Class](https://img.shields.io/badge/CLASS-ENGINEER-ff0000?style=for-the-badge)
+![XP](https://img.shields.io/badge/XP-999999%2F1000000-yellow?style=for-the-badge)
+![HP](https://img.shields.io/badge/HP-∞%2F∞-red?style=for-the-badge)
+![MP](https://img.shields.io/badge/MP-9999%2F9999-blue?style=for-the-badge)
+
 </div>
 
 ---
 
-### 🖋️ Terminal: /home/mariaclara/about_me.sh
+## 🕹️ GAME STATUS
 
-* [cite_start]**Status**: Graduanda em **Engenharia de Computação** na **UNIFOR**[cite: 9].
-* [cite_start]**Previsão de Conclusão**: 2026.2[cite: 9].
-* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**[cite: 7, 23].
-* [cite_start]**Research**: Especialista em **Computação Paralela** e **Visão Computacional**[cite: 12, 13, 22, 24].
-* [cite_start]**Location**: `{"city": "Fortaleza", "state": "CE", "country": "BR"}`[cite: 2].
-
----
-
-### 🛠️ Hardware Stack & Performance
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-### 🔬 Projetos Acadêmicos (Hardware & Low-Level Focus)
-
-* [cite_start]**Sistemas Operacionais (Kernel Level)**: Implementação e análise de desempenho do algoritmo de substituição de páginas **WSClock** em linguagem **C**.
-* [cite_start]**Computação Paralela e Concorrente**: Desenvolvimento de um sistema de **Multiplicação de Matrizes Distribuída** utilizando **C e Python**.
-* [cite_start]**Processamento Digital de Imagem (Edge AI)**: Integração de redes neurais **YOLO** e técnicas de visão computacional para detecção de objetos[cite: 13, 22].
-* [cite_start]**Ambiente de Dados**: Criação de modelos relacionais e consultas **SQL** otimizadas em **MySQL**[cite: 14, 21].
-* [cite_start]**Engenharia de Software**: Levantamento de requisitos funcionais e não funcionais com modelagem em **UML**[cite: 15, 25].
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        PLAYER STATS                             │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  👤 NOME:        Lucas Nathan de Moraes Gomes                  │
+│  🎓 CLASSE:      Engenheiro de Computação                      │
+│  🏫 GUILDA:      UNIFOR - Universidade de Fortaleza            │
+│  📍 REGIÃO:      Fortaleza, CE - Brasil                        │
+│  ⭐ LEVEL:       25                                             │
+│  💪 FORÇA:       █████████░ 90/100                             │
+│  🧠 INT:         ██████████ 100/100                            │
+│  🎯 DES:         ████████░░ 80/100                             │
+│  🛡️ DEF:         ███████░░░ 70/100                             │
+│  ⚡ VEL:         ████████░░ 85/100                             │
+│  ❤️ VIT:         ████████░░ 85/100                             │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 💻 System Internals (Technical Skills Summary)
+## 🎯 SKILL TREE
 
-| Module | Technical Knowledge | Application |
-| :--- | :--- | :--- |
-| **Kernel & OS** | [cite_start]Memória & Processos [cite: 23] | [cite_start]Algoritmos de escalonamento e paginação. |
-| **HPC** | [cite_start]Parallel Computing [cite: 24] | [cite_start]Sistemas distribuídos e processamento concorrente. |
-| **Edge AI** | [cite_start]YOLO & PDI [cite: 22] | [cite_start]Visão computacional aplicada ao baixo nível[cite: 13]. |
-| **Full Stack** | [cite_start]Web & Mobile [cite: 26] | [cite_start]Apps de precificação e sistemas de gestão[cite: 18]. |
+<div align="center">
+
+```
+                         [LUCAS NATHAN]
+                               │
+                ┌──────────────┼──────────────┐
+                │              │              │
+           [BACKEND]      [EMBEDDED]       [AI/ML]
+            LVL 80         LVL 90          LVL 85
+                │              │              │
+        ┌───────┼──────┐   ┌───┼────┐    ┌───┼───┐
+        │       │      │   │   │    │    │   │   │
+     Node.js  Java  PHP  STM32 IoT 8051  CV  ML Opt
+      LVL85  LVL80 LVL70 LVL95 LVL88 LVL90 LVL85 LVL82
+```
+
+</div>
+
+### 💻 LINGUAGENS DOMINADAS
+
+<table>
+<tr>
+<td width="50%">
+
+```
+╔══════════════════════════════════╗
+║     PROGRAMMING LANGUAGES        ║
+╠══════════════════════════════════╣
+║                                  ║
+║  [🐍] PYTHON                     ║
+║  ████████████████████ 95%        ║
+║  • Skill Points: 950/1000        ║
+║  • Rank: S+                      ║
+║                                  ║
+║  [⚙️] C/C++                       ║
+║  ██████████████████░░ 90%        ║
+║  • Skill Points: 900/1000        ║
+║  • Rank: S                       ║
+║                                  ║
+║  [☕] JAVA                        ║
+║  █████████████████░░░ 85%        ║
+║  • Skill Points: 850/1000        ║
+║  • Rank: A+                      ║
+║                                  ║
+║  [📜] JAVASCRIPT                 ║
+║  ████████████████░░░░ 80%        ║
+║  • Skill Points: 800/1000        ║
+║  • Rank: A                       ║
+║                                  ║
+╚══════════════════════════════════╝
+```
+
+</td>
+<td width="50%">
+
+```
+╔══════════════════════════════════╗
+║        SPECIAL ABILITIES         ║
+╠══════════════════════════════════╣
+║                                  ║
+║  🤖 AI MASTERY                   ║
+║  ██████████████████░░ 90%        ║
+║  └─ Machine Learning [UNLOCKED]  ║
+║  └─ Computer Vision  [UNLOCKED]  ║
+║  └─ Deep Learning    [TRAINING]  ║
+║                                  ║
+║  🔌 EMBEDDED SYSTEMS             ║
+║  ███████████████████░ 95%        ║
+║  └─ 8051 Assembly    [MASTER]    ║
+║  └─ STM32 ARM        [MASTER]    ║
+║  └─ Linux Embedded   [EXPERT]    ║
+║                                  ║
+║  🌐 WEB DEVELOPMENT              ║
+║  ████████████████░░░░ 80%        ║
+║  └─ Full Stack       [UNLOCKED]  ║
+║  └─ REST APIs        [UNLOCKED]  ║
+║  └─ React.js         [TRAINING]  ║
+║                                  ║
+╚══════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌎 System Language & Connectivity
+## 🏆 CONQUISTAS DESBLOQUEADAS
 
-* **Inglês**: Nível Avançado (v2.0).
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-nathan-a83418242/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucasnathan.marc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+| 🏅 Conquista | Descrição | Status | Pontos |
+|:------------|:----------|:------:|:------:|
+| 🎓 **ACADEMIC WARRIOR** | Graduando em Engenharia de Computação | ✅ | 1000 |
+| 💻 **CODE MASTER** | Mais de 50 projetos completados | ✅ | 500 |
+| 🐍 **PYTHON WIZARD** | Domínio completo de Python | ✅ | 800 |
+| 🤖 **AI PIONEER** | Implementou ML do zero | ✅ | 750 |
+| 🔌 **HARDWARE HACKER** | Projetos com 5+ microcontroladores | ✅ | 900 |
+| 🎯 **PROBLEM SOLVER** | +200 problemas no Beecrowd | ✅ | 600 |
+| 📚 **KNOWLEDGE SEEKER** | Sempre estudando novas techs | ✅ | 300 |
+| 🌟 **TEAM PLAYER** | Trabalho em equipe SCRUM | ✅ | 400 |
+| 🔥 **STREAK MASTER** | 30 dias consecutivos codando | ✅ | 200 |
+| 💡 **INNOVATOR** | Criou soluções inovadoras | ✅ | 550 |
+
+**TOTAL DE PONTOS:** `6,000 XP` 🎮
+
+</div>
+
+---
+
+## 🎮 MISSÕES PRINCIPAIS
+
+### 🔥 MISSÕES ATIVAS
+
+<details open>
+<summary>⚔️ <b>QUEST 1: Meta-heurísticas Boss Fight</b> - CONCLUÍDA ✅</summary>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  MISSÃO: Derrotar o Problema do Caixeiro Viajante      │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  Objetivo: Implementar algoritmos de otimização        │
+│  Recompensa: +750 XP, Skill "Genetic Algorithm"        │
+│  Dificuldade: ★★★★★                                    │
+│                                                         │
+│  Inimigos Derrotados:                                  │
+│  ☠️ TSP Problem          [DEFEATED]                    │
+│  ☠️ Local Optima Trap    [DEFEATED]                    │
+│  ☠️ Computational Cost   [DEFEATED]                    │
+│                                                         │
+│  Itens Obtidos:                                        │
+│  • Algoritmo Genético (Lendário)                       │
+│  • Simulated Annealing (Épico)                         │
+│  • Skill de Otimização +20                             │
+│                                                         │
+│  STATUS: ✅ MISSÃO COMPLETA                            │
+│  LINK: github.com/LucNath/Trabalho-AV3-Busca...       │
+└─────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+<details>
+<summary>🧠 <b>QUEST 2: Machine Learning Dungeon</b> - CONCLUÍDA ✅</summary>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  MISSÃO: Criar modelos ML sem frameworks               │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  Objetivo: Implementação pura em Numpy                 │
+│  Recompensa: +800 XP, Title "ML Master"                │
+│  Dificuldade: ★★★★☆                                    │
+│                                                         │
+│  Chefes Derrotados:                                    │
+│  👹 Naive Bayes Boss     [DEFEATED]                    │
+│  👹 Gaussian Guardian    [DEFEATED]                    │
+│  👹 Regression Dragon    [DEFEATED]                    │
+│                                                         │
+│  Tesouros Coletados:                                   │
+│  • MQO Algorithm (Raro)                                │
+│  • Cross-Validation Scroll                             │
+│  • Understanding of Math +50                           │
+│                                                         │
+│  STATUS: ✅ MISSÃO COMPLETA                            │
+│  LINK: github.com/LucNath/Trabalho-AV1-Classifi...    │
+└─────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+<details>
+<summary>👁️ <b>QUEST 3: Computer Vision Arena</b> - CONCLUÍDA ✅</summary>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  MISSÃO: Dominar processamento de imagens              │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  Objetivo: Implementar técnicas de PDI                 │
+│  Recompensa: +700 XP, Skill "Eagle Eye"                │
+│  Dificuldade: ★★★★☆                                    │
+│                                                         │
+│  Minions Derrotados:                                   │
+│  👾 Noise Monster        [DEFEATED]                    │
+│  👾 Blur Demon           [DEFEATED]                    │
+│  👾 Edge Phantom         [DEFEATED]                    │
+│  👾 Segmentation Beast   [DEFEATED]                    │
+│                                                         │
+│  Magias Aprendidas:                                    │
+│  • Gaussian Filter (Comum)                             │
+│  • Canny Edge Detection (Raro)                         │
+│  • Fourier Transform (Épico)                           │
+│  • Watershed Segmentation (Lendário)                   │
+│                                                         │
+│  STATUS: ✅ MISSÃO COMPLETA                            │
+│  LINK: github.com/LucNath/Processamento-Digital...    │
+└─────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+<details>
+<summary>💻 <b>SIDE QUEST: Beecrowd Infinite Tower</b> - EM PROGRESSO ⚡</summary>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  MISSÃO: Subir a torre infinita de problemas           │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  Objetivo: Resolver +200 problemas                     │
+│  Recompensa: Continuous XP                             │
+│  Dificuldade: ★★★☆☆ (Variável)                        │
+│                                                         │
+│  Progresso da Torre:                                   │
+│  Floor 200+: [████████████████████░] 200/∞             │
+│                                                         │
+│  Andares Conquistados:                                 │
+│  🗼 Floor 1-100:   INICIANTE    [CLEARED] ✅           │
+│  🗼 Floor 101-150: MATEMÁTICA   [CLEARED] ✅           │
+│  🗼 Floor 151-180: ESTRUTURAS   [CLEARED] ✅           │
+│  🗼 Floor 181-200: ALGORITMOS   [CLEARED] ✅           │
+│  🗼 Floor 201+:    AVANÇADO     [IN PROGRESS] ⚡       │
+│                                                         │
+│  Boss do Andar:                                        │
+│  👑 Dynamic Programming Emperor [NEXT]                 │
+│                                                         │
+│  STATUS: ⚡ EM ANDAMENTO                               │
+│  LINK: github.com/LucNath/Beecrowd-Solutions          │
+└─────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+---
+
+## 🗺️ MAPA DE HABILIDADES
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                         TECH SKILL MAP                            ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  🔧 FERRAMENTAS & EQUIPAMENTOS                                    ║
+║  ────────────────────────────────────────────────────────────     ║
+║                                                                   ║
+║  [⚔️] ARMAS PRINCIPAIS:                                           ║
+║  • Python 3.x          [LENDÁRIO]  ★★★★★                         ║
+║  • C/C++               [LENDÁRIO]  ★★★★★                         ║
+║  • VS Code             [ÉPICO]     ★★★★☆                         ║
+║  • Git/GitHub          [ÉPICO]     ★★★★☆                         ║
+║                                                                   ║
+║  [🛡️] DEFESAS:                                                    ║
+║  • Linux OS            [ÉPICO]     ★★★★☆                         ║
+║  • Unit Testing        [RARO]      ★★★☆☆                         ║
+║  • Code Review         [RARO]      ★★★☆☆                         ║
+║                                                                   ║
+║  [💎] ITENS ESPECIAIS:                                            ║
+║  • Arduino IDE         [ÉPICO]     ★★★★☆                         ║
+║  • STM32CubeIDE        [ÉPICO]     ★★★★☆                         ║
+║  • OpenCV Library      [RARO]      ★★★★☆                         ║
+║  • Numpy/Pandas        [RARO]      ★★★★☆                         ║
+║                                                                   ║
+║  [🎒] INVENTÁRIO:                                                 ║
+║  • MySQL Database      [COMUM]     ★★★☆☆                         ║
+║  • MongoDB             [COMUM]     ★★★☆☆                         ║
+║  • Node.js             [RARO]      ★★★☆☆                         ║
+║  • Docker              [COMUM]     ★★☆☆☆ [TRAINING]              ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🎪 MINI-GAMES & PROJETOS SECUNDÁRIOS
+
+### 🎨 PROJETOS ACADÊMICOS
+
+<table>
+<tr>
+<td width="33%">
+
+```
+┌──────────────────┐
+│  🔌 EMBEDDED     │
+│     SYSTEMS      │
+├──────────────────┤
+│                  │
+│  8051 Projects   │
+│  Rating: ★★★★★  │
+│  XP: +500        │
+│                  │
+│  STM32 RTOS      │
+│  Rating: ★★★★★  │
+│  XP: +700        │
+│                  │
+│  BeagleBone      │
+│  Rating: ★★★★☆  │
+│  XP: +600        │
+│                  │
+└──────────────────┘
+```
+
+</td>
+<td width="33%">
+
+```
+┌──────────────────┐
+│  📐 SOFTWARE     │
+│   ENGINEERING    │
+├──────────────────┤
+│                  │
+│  SCRUM Master    │
+│  Rating: ★★★★☆  │
+│  XP: +400        │
+│                  │
+│  ProjectLibre    │
+│  Rating: ★★★☆☆  │
+│  XP: +300        │
+│                  │
+│  UML Diagrams    │
+│  Rating: ★★★★☆  │
+│  XP: +350        │
+│                  │
+└──────────────────┘
+```
+
+</td>
+<td width="33%">
+
+```
+┌──────────────────┐
+│  ⚙️ ADVANCED     │
+│     SYSTEMS      │
+├──────────────────┤
+│                  │
+│  OS Concepts     │
+│  Rating: ★★★★☆  │
+│  XP: +450        │
+│                  │
+│  Parallel Comp   │
+│  Rating: ★★★★☆  │
+│  XP: +500        │
+│                  │
+│  Networks        │
+│  Rating: ★★★★☆  │
+│  XP: +400        │
+│                  │
+└──────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 ESTATÍSTICAS DE COMBATE (GitHub Stats)
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                    BATTLE STATISTICS                      ║
+╠═══════════════════════════════════════════════════════════╣
+║                                                           ║
+║  Commits this year:    [████████░░] 500+                 ║
+║  Pull Requests:        [██████░░░░] 50+                  ║
+║  Issues Solved:        [███████░░░] 75+                  ║
+║  Repositories:         [█████████░] 50+                  ║
+║  Stars Received:       [████░░░░░░] 30+                  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=LucNath&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff00&icon_color=ff0000&text_color=00ff00"/>
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff00&text_color=00ff00"/>
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                    COMBO STREAK! 🔥                       ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=radical&hide_border=true&background=0a0a0a&ring=00ff00&fire=ff0000&currStreakLabel=00ff00" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🎯 PRÓXIMAS MISSÕES (2025 ROADMAP)
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    QUEST LOG 2025                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  [ ] 🧠 DEEP LEARNING DUNGEON                               │
+│      └─ Objetivo: Dominar TensorFlow/PyTorch               │
+│      └─ Recompensa: +1000 XP, Title "Neural Master"        │
+│      └─ Dificuldade: ★★★★★                                 │
+│                                                             │
+│  [ ] ☁️ CLOUD TEMPLE                                        │
+│      └─ Objetivo: AWS Certification                        │
+│      └─ Recompensa: +800 XP, Skill "Cloud Ninja"           │
+│      └─ Dificuldade: ★★★★☆                                 │
+│                                                             │
+│  [ ] 🐳 DEVOPS ARENA                                        │
+│      └─ Objetivo: Docker + Kubernetes                      │
+│      └─ Recompensa: +700 XP, Title "DevOps Warrior"        │
+│      └─ Dificuldade: ★★★★☆                                 │
+│                                                             │
+│  [ ] ⚛️ REACT KINGDOM                                       │
+│      └─ Objetivo: React.js Mastery                         │
+│      └─ Recompensa: +600 XP, Skill "Component Mage"        │
+│      └─ Dificuldade: ★★★☆☆                                 │
+│                                                             │
+│  [ ] 🏆 OPEN SOURCE GUILD                                   │
+│      └─ Objetivo: 5+ Contribuições                         │
+│      └─ Recompensa: Continuous XP, Community Badge         │
+│      └─ Dificuldade: ★★★☆☆                                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 💬 MULTIPLAYER (Contato)
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                 CONECTAR COM PLAYER                       ║
+╠═══════════════════════════════════════════════════════════╣
+║                                                           ║
+║  Escolha seu método de comunicação:                      ║
+║                                                           ║
+║  [1] 📧 Email Quest                                       ║
+║      └─> lucasnathan.marc@gmail.com                      ║
+║                                                           ║
+║  [2] 💼 LinkedIn Party                                    ║
+║      └─> linkedin.com/in/lucas-nathan-de-moraes-gomes    ║
+║                                                           ║
+║  [3] 🐙 GitHub Guild                                      ║
+║      └─> github.com/LucNath                              ║
+║                                                           ║
+║  [4] 💬 WhatsApp Direct Message                           ║
+║      └─> +55 (85) 98965-2582                             ║
+║                                                           ║
+║  Press [A] to send message                               ║
+║  Press [B] to go back                                    ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN_PARTY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nathan-de-moraes-gomes-a83418242/)
+[![Email](https://img.shields.io/badge/EMAIL_QUEST-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnathan.marc@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB_GUILD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucNath)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP_DM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585989652582)
+
+</div>
+
+---
+
+## 🎮 EASTER EGGS & SECRETS
+
+<details>
+<summary>🔍 <b>Click here to reveal secret cheat codes...</b></summary>
+
+```python
+# 🎮 CHEAT CODES ATIVADOS!
+
+def god_mode():
+    skills = {
+        'coding': float('inf'),
+        'coffee': float('inf'),
+        'debugging': float('inf'),
+        'learning': float('inf')
+    }
+    return "IMORTAL ATIVADO! 🎮"
+
+def show_secrets():
+    print("""
+    ═══════════════════════════════════════
+    🎮 CÓDIGOS SECRETOS DESCOBERTOS! 🎮
+    ═══════════════════════════════════════
+    
+    • ↑↑↓↓←→←→BA = Todas as skills desbloqueadas
+    • IDDQD = Modo God (Café infinito)
+    • IDKFA = Todas as linguagens dominadas
+    • HESOYAM = +100000 XP
+    • PANZER = Commit streak infinito
+    
+    ⚠️ Use com sabedoria, jovem programador!
+    """)
+
+# SEGREDO: O verdadeiro cheat code é a dedicação 💪
+while alive:
+    learn()
+    code()
+    improve()
+    repeat()
+```
+
+**🏆 CONQUISTA DESBLOQUEADA:** "Easter Egg Hunter" +100 XP
+
+</details>
+
+<details>
+<summary>🎵 <b>8-Bit Music Player</b></summary>
+
+```
+♪♫ NOW PLAYING: "Code Symphony in C Major" ♫♪
+
+    ██████████████████████████████████████
+    █  ♪  The Developer's Theme Song  ♪  █
+    ██████████████████████████████████████
+
+      [▶️] Play    [⏸️] Pause    [⏭️] Next
+
+    Volume: ████████████████░░ 80%
+    
+    Playlist:
+    1. ♪ Coding in the Dark - Debugger's Anthem
+    2. ♪ Syntax Error Blues
+    3. ♪ Coffee Break Waltz  
+    4. ♪ Git Commit Tango
+    5. ♪ Stack Overflow Serenade 
+    
+    🎵 "While(1) { code(); coffee(); }" 🎵
+```
+
+</details>
+
+<details>
+<summary>🎲 <b>Random Developer Quote Generator</b></summary>
+
+```javascript
+const developerWisdom = [
+    "🎮 'Bugs are just undocumented features' - Every Dev",
+    "☕ 'Coffee.exe has stopped working' - Monday Morning",
+    "🐛 '99 bugs in the code, 99 bugs... fix one bug, compile again, 117 bugs in the code'",
+    "💻 'It works on my machine' - Famous Last Words",
+    "🔥 'First, solve the problem. Then, write the code' - John Johnson",
+    "🚀 'Code never lies, comments sometimes do' - Ron Jeffries",
+    "⚡ 'Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime'",
+    "🎯 'The best error message is the one that never shows up'"
+];
+
+const randomQuote = developerWisdom[Math.floor(Math.random() * developerWisdom.length)];
+console.log(randomQuote);
+
+// 🎲 Refresh the page for a new quote!
+```
+
+</details>
+
+---
+
+## 🏁 GAME OVER... OR IS IT?
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║                    🎮 CONTINUE? 🎮                            ║
+║                                                               ║
+║                    [10... 9... 8...]                          ║
+║                                                               ║
+║              💰 INSERT COIN TO CONTINUE 💰                    ║
+║                                                               ║
+║   Pressione [STAR ⭐] para salvar o progresso                ║
+║   Pressione [FOLLOW 👥] para fazer parte da party            ║
+║   Pressione [FORK 🔱] para começar sua própria jornada       ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+```
+    ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗ 
+    ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗
+       ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗    █████╗  ██║   ██║██████╔╝
+       ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║    ██╔══╝  ██║   ██║██╔══██╗
+       ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║    ██║     ╚██████╔╝██║  ██║
+       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝
+                                                                                      
+    ██████╗ ██╗      █████╗ ██╗   ██╗██╗███╗   ██╗ ██████╗     ██╗                 
+    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██║████╗  ██║██╔════╝     ██║                 
+    ██████╔╝██║     ███████║ ╚████╔╝ ██║██╔██╗ ██║██║  ███╗    ██║                 
+    ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██║██║╚██╗██║██║   ██║    ╚═╝                 
+    ██║     ███████╗██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝    ██╗                 
+    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝                 
+```
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LucNath.LucNath&left_color=red&right_color=green&left_text=Players%20Visited)
+
+---
+
+**⭐ HIGH SCORE: Se você chegou até aqui, você merece um Achievement! ⭐**
+
+```
+    ╔════════════════════════════════════════╗
+    ║  🏆 ACHIEVEMENT UNLOCKED! 🏆          ║
+    ║                                        ║
+    ║  "README COMPLETIONIST"                ║
+    ║  Leu o README inteiro                  ║
+    ║                                        ║
+    ║  +500 XP                               ║
+    ╚════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzRyc3JqbmZqZzRyc3JqbmZqZzRyc3JqbmZqZzRyc3JqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGRZaO3u/giphy.gif" width="400px" />
-  <br>
-  <code>DEBUG: Success! Maria Clara is ready for new engineering challenges.</code>
+
+**💾 CRIADO POR LUCAS NATHAN | SAVE FILE: 2025 💾**
+
+```
+    ▄████████    ▄████████  ▄█    █▄     ▄████████ 
+   ███    ███   ███    ███ ███    ███   ███    ███ 
+   ███    █▀    ███    ███ ███    ███   ███    █▀  
+   ███          ███    ███ ███    ███  ▄███▄▄▄     
+ ▀███████████ ▀███████████ ███    ███ ▀▀███▀▀▀     
+          ███   ███    ███ ███    ███   ███    █▄  
+    ▄█    ███   ███    ███ ███    ███   ███    ███ 
+  ▄████████▀    ███    █▀   ▀██████▀    ██████████ 
+```
+
+**🎮 PRESS START TO CODE 🎮**
+
+![Game Over](https://media.giphy.com/media/8m5dizh7ghyEPIWIx1/giphy.gif)
+
 </div>
