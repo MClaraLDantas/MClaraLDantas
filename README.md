@@ -3,16 +3,16 @@
 <div align="center">
 
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█                                                                    █
-█   ███╗   ███╗ █████╗ ██████╗ ██╗ █████╗      ██████╗██╗      █████╗  █
-█   ████╗ ████║██╔══██╗██╔══██╗██║██╔══██╗    ██╔════╝██║     ██╔══██╗ █
-█   ██╔████╔██║███████║██████╔╝██║███████║    ██║     ██║     ███████║ █
-█   ██║╚██╔╝██║██╔══██║██╔══██╗██║██╔══██║    ██║     ██║     ██╔══██║ █
-█   ██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║    ╚██████╗███████╗██║  ██║ █
-█   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝╚══════╝╚═╝  ╚═╝ █
-█                                                                    █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  ___  ___  ___  ______ _____  ___    _____  _       ___  ______  ___    ║
+║  |  \/  | / _ \ | ___ \_   _|/ _ \  /  __ \| |     / _ \ | ___ \/ _ \  ║
+║  | .  . |/ /_\ \| |_/ / | | / /_\ \ | /  \/| |    / /_\ \| |_/ / /_\ \ ║
+║  | |\/| ||  _  ||    /  | | |  _  | | |    | |    |  _  ||    /|  _  | ║
+║  | |  | || | | || |\ \ _| |_| | | | | \__/\| |____| | | || |\ \| | | | ║
+║  \_|  |_/\_| |_/\_| \_|\___/\_| |_/  \____/\_____/\_| |_/\_| \_\_| |_/ ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=while(alive)+%7B+code();+%7D+%E2%96%8C;Kernel+is+my+home%2C+registers+my+language;Low-Level+%26+Embedded+Systems+Engineer;Fortaleza%2C+CE+%7C+UNIFOR+%7C+2026.2+%E2%96%8C)
@@ -35,8 +35,6 @@
 ║  root@unifor-kernel:~$ while(alive) { code(); }  ▌                  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-<br>
 
 ---
 
@@ -95,8 +93,8 @@
 ├────────────────┼──────────────────────────┼────────────────────────────────────────┤
 │  Kernel & OS   │  Memória & Processos      │  Escalonamento e paginação             │
 │  HPC           │  Parallel Computing       │  Sistemas distribuídos & concorrentes  │
-│  Edge AI       │  YOLO & PDI              │  Visão computacional em baixo nível    │
-│  Full Stack    │  JS & Node.js            │  Apps de precificação & gestão         │
+│  Edge AI       │  YOLO & PDI               │  Visão computacional em baixo nível    │
+│  Full Stack    │  JS & Node.js             │  Apps de precificação & gestão         │
 └────────────────┴──────────────────────────┴────────────────────────────────────────┘
 ```
 
@@ -129,7 +127,5 @@
 ```
 
 ![](https://komarev.com/ghpvc/?username=MClaraLDantas&color=00ff41&style=for-the-badge&label=TERMINAL+VISITORS)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Maria%20Clara&fontSize=80&fontColor=000000&animation=twinkling&fontAlignY=38&desc=Low-Level%20%26%20Embedded%20Engineer&descAlignY=55&descAlign=50)
 
 </div>
