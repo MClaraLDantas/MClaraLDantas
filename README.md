@@ -130,4 +130,6 @@
 
 ![](https://komarev.com/ghpvc/?username=MClaraLDantas&color=00ff41&style=for-the-badge&label=TERMINAL+VISITORS)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Maria%20Clara&fontSize=80&fontColor=000000&animation=twinkling&fontAlignY=38&desc=Low-Level%20%26%20Embedded%20Engineer&descAlignY=55&descAlign=50)
+
 </div>
