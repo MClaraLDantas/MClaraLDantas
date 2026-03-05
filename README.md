@@ -10,7 +10,7 @@
 
 * [cite_start]**Status**: Graduanda em **Engenharia de Computação** na **UNIFOR**[cite: 9].
 * [cite_start]**Previsão de Conclusão**: 2026.2[cite: 9].
-* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**[cite: 7].
+* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**[cite: 7, 23].
 * [cite_start]**Research**: Especialista em **Computação Paralela** e **Visão Computacional**[cite: 12, 13].
 * [cite_start]**Location**: `{"city": "Fortaleza", "state": "CE", "country": "BR"}`[cite: 2].
 
@@ -30,11 +30,11 @@
 
 ### 🔬 Projetos Acadêmicos (Hardware & Low-Level Focus)
 
-* [cite_start]**Sistemas Operacionais (Kernel Level)**: Implementação e análise de desempenho do algoritmo de substituição de páginas **WSClock** em linguagem **C**, com foco em gerenciamento de memória e eficiência de processos[cite: 11, 23].
-* [cite_start]**Computação Paralela e Concorrente**: Desenvolvimento de um sistema de **Multiplicação de Matrizes Distribuída** (C/Python), explorando conceitos de redes e sistemas distribuídos para otimização de processamento[cite: 12, 24].
-* [cite_start]**Processamento Digital de Imagem (Edge AI)**: Integração de redes neurais **YOLO** e técnicas de visão computacional para detecção de objetos em tempo real[cite: 13, 22].
-* [cite_start]**Sistemas de Dados Relacionais**: Criação de modelos e consultas otimizadas em **MySQL** para integração direta com aplicações de hardware e software[cite: 14, 21].
-* [cite_start]**Engenharia de Software & Modelagem**: Levantamento de requisitos e modelagem de sistemas complexos utilizando **UML** e Draw.io[cite: 15, 25].
+* [cite_start]**Sistemas Operacionais (Kernel Level)**: Implementação e análise de desempenho do algoritmo de substituição de páginas **WSClock** em linguagem **C**[cite: 11].
+* [cite_start]**Computação Paralela e Concorrente**: Desenvolvimento de um sistema de **Multiplicação de Matrizes Distribuída** (C/Python)[cite: 12].
+* [cite_start]**Processamento Digital de Imagem (Edge AI)**: Integração de redes neurais **YOLO** e técnicas de visão computacional para detecção de objetos[cite: 13, 22].
+* [cite_start]**Ambiente de Dados**: Criação de modelos relacionais e consultas SQL otimizadas em **MySQL**[cite: 14, 21].
+* [cite_start]**Engenharia de Software**: Levantamento de requisitos funcionais e não funcionais com modelagem em **UML**[cite: 15, 25].
 
 ---
 
@@ -42,11 +42,11 @@
 
 | Module | Technical Knowledge | Application |
 | :--- | :--- | :--- |
-| **Kernel & OS** | Memória & Processos | [cite_start]Algoritmos de escalonamento e paginação (C)[cite: 11, 23]. |
-| **HPC** | Parallel Computing | [cite_start]Sistemas distribuídos e processamento concorrente[cite: 12, 24]. |
-| **Edge AI** | YOLO & PDI | [cite_start]Visão computacional aplicada ao baixo nível[cite: 13, 22]. |
-| **Firmware** | Microcontroladores | [cite_start]Desenvolvimento de lógica de controle em tempo real[cite: 20]. |
-| **Full Stack** | Web & Mobile | [cite_start]Desenvolvimento de apps (Node.js/PHP) e sistemas de gestão[cite: 18, 26]. |
+| **Kernel & OS** | [cite_start]Memória & Processos [cite: 23] | [cite_start]Algoritmos de escalonamento e paginação[cite: 11]. |
+| **HPC** | [cite_start]Parallel Computing [cite: 12] | [cite_start]Sistemas distribuídos e processamento concorrente[cite: 24]. |
+| **Edge AI** | [cite_start]YOLO & PDI [cite: 22] | [cite_start]Visão computacional aplicada ao baixo nível[cite: 13]. |
+| **Firmware** | Microcontroladores | Desenvolvimento de lógica de controle em tempo real. |
+| **Full Stack** | [cite_start]Web & Mobile [cite: 26] | [cite_start]Apps de precificação e sistemas de gestão (Node.js/PHP)[cite: 18, 26]. |
 
 ---
 
