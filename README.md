@@ -8,87 +8,76 @@
 
 ## 🎓 Sobre Mim
 
-[cite_start]🎯 Estudante de **Engenharia de Computação** na **UNIFOR** (Universidade de Fortaleza)[cite: 9].  
-[cite_start]Previsão de conclusão: **2026.2**[cite: 9].  
-[cite_start]🔌 Apaixonada pela integração entre hardware e software, com foco em **Sistemas Embarcados** e **Arquitetura de Computadores**[cite: 7].  
-[cite_start]💻 Desenvolvedora com sólida base em **C, C++ e Java**[cite: 20].  
-[cite_start]🔬 Experiência acadêmica em **Sistemas Operacionais**, **Computação Paralela** e **Sistemas Distribuídos**[cite: 11, 12, 24].  
-[cite_start]📍 Fortaleza, CE - Brasil[cite: 2].
+* [cite_start]**Formação**: Graduanda em **Engenharia de Computação** pela **UNIFOR**[cite: 9].
+* [cite_start]**Foco Técnico**: Especialista em integração Hardware-Software e **Sistemas Embarcados**[cite: 7, 23].
+* [cite_start]**Áreas de Interesse**: Arquitetura de Computadores, **IA (Visão Computacional)** e **Sistemas Distribuídos**[cite: 12, 13, 22].
+* [cite_start]**Localização**: Fortaleza, CE[cite: 2].
 
 ---
 
-## 🛠️ Habilidades Técnicas (Foco em Hardware & Engenharia)
+## 🛠️ Hard Skills (Foco em Engenharia)
 
 ### ⚙️ Baixo Nível & Sistemas Operacionais
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OS Concepts](https://img.shields.io/badge/OS_Kernel-FF79C6?style=for-the-badge)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-BD93F9?style=for-the-badge)
+### 🤖 Inteligência Artificial & Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+</p>
 
-</div>
-
-### 🤖 Inteligência Artificial & Visão Computacional
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO_v8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
-### 🌐 Outras Competências
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![UML](https://img.shields.io/badge/UML_Model-FF5555?style=for-the-badge)
-
-</div>
+### 🌐 Desenvolvimento & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
 ---
 
-## 🔬 Competências de Engenharia & Projetos Acadêmicos
+## 🔬 Competências Técnicas & Acadêmicas
 
-| Área | Tecnologia/Conceito | Descrição |
+| Categoria | Tecnologia / Conceito | Experiência Aplicada |
 | :--- | :--- | :--- |
-| **Sistemas Operacionais** | [cite_start]Algoritmo WSClock [cite: 11] | [cite_start]Implementação em **C** para gerenciamento de memória e análise de desempenho[cite: 11]. |
-| **Sistemas Distribuídos** | [cite_start]Computação Paralela [cite: 12, 24] | [cite_start]Multiplicação de matrizes distribuída desenvolvida em **C e Python**[cite: 12]. |
-| **Visão Computacional** | [cite_start]Redes YOLO [cite: 13, 22] | [cite_start]Detecção e pré-processamento de imagens com foco em IA aplicada[cite: 13]. |
-| **Eng. de Software** | [cite_start]Requisitos e UML [cite: 15, 25] | [cite_start]Modelagem de sistemas e levantamento de requisitos funcionais[cite: 15]. |
-| **Projetos Sociais** | [cite_start]Mobile (Preci Arte) [cite: 18] | [cite_start]Aplicativo para precificação automatizada de artesanato em Moita Redonda[cite: 17, 18]. |
+| **Sistemas Operacionais** | Gerenciamento de Memória | [cite_start]Implementação do algoritmo **WSClock** em C[cite: 11, 23]. |
+| **Sistemas Distribuídos** | Computação Paralela | [cite_start]Multiplicação de matrizes distribuída (C/Python)[cite: 12, 24]. |
+| **Visão Computacional** | YOLO & PDI | [cite_start]Pré-processamento e redes neurais para detecção de objetos[cite: 13, 22]. |
+| **Engenharia de Software** | UML & Requisitos | [cite_start]Modelagem de sistemas e levantamento de requisitos[cite: 15, 25]. |
+| **Projetos Extencionistas** | Mobile & Estratégia | [cite_start]App **Preci Arte** e planejamento de estoque para artesãos[cite: 17, 18]. |
 
 ---
 
-## 🌎 Idiomas & Social
+## 🌎 Idiomas & Contato
 
-<div align="center">
+* [cite_start]**Inglês**: Nível Intermediário[cite: 28].
+* [cite_start]**Espanhol**: Nível Intermediário[cite: 29].
 
-![English](https://img.shields.io/badge/English-Intermediate-blue?style=flat-square)
-[cite_start]![Spanish](https://img.shields.io/badge/Spanish-Intermediate-yellow?style=flat-square) [cite: 28, 29]
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nathan-a83418242/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnathan.marc@gmail.com)
-
-</div>
-
----
-
-## 📊 Estatísticas de Desenvolvimento
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=dracula&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=dracula&langs_count=6">
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-nathan-a83418242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucasnathan.marc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+## 📊 Estatísticas (Engenharia de Performance)
+
 <div align="center">
-  <h3> 🤝 Vamos conectar? </h3>
-  [cite_start]<p> Estou em busca de oportunidades de estágio em Engenharia de Computação, com foco em hardware e sistemas de alto desempenho. [cite: 6, 7] </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
 </div>
+
+---
+<p align="center">
+  <i>"Transformando conceitos complexos de hardware em soluções de software eficientes."</i>
+</p>
