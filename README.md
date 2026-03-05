@@ -8,11 +8,11 @@
 
 ### 🖋️ Terminal: /home/mariaclara/about_me.sh
 
-* [cite_start]**Status**: Graduanda em **Engenharia de Computação** na **UNIFOR**[cite: 9].
-* [cite_start]**Previsão de Conclusão**: 2026.2[cite: 9].
-* [cite_start]**Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**[cite: 7, 23].
-* [cite_start]**Research**: Especialista em **Computação Paralela** e **Visão Computacional**[cite: 12, 13].
-* [cite_start]**Location**: `{"city": "Fortaleza", "state": "CE", "country": "BR"}`[cite: 2].
+* **Status**: Graduanda em **Engenharia de Computação** na **UNIFOR**.
+* **Previsão de Conclusão**: 2026.2.
+* **Core**: Foco em **Sistemas Embarcados**, **Baixo Nível** e **Sistemas Operacionais**.
+* **Research**: Especialista em **Computação Paralela** e **Visão Computacional**.
+* **Location**: `{"city": "Fortaleza", "state": "CE", "country": "BR"}`.
 
 ---
 
@@ -28,13 +28,13 @@
 
 ---
 
-### 🔬 Projetos Acadêmicos (Hardware & Low-Level Focus)
+### 🔬 Projetos Académicos (Hardware & Low-Level Focus)
 
-* [cite_start]**Sistemas Operacionais (Kernel Level)**: Implementação e análise de desempenho do algoritmo de substituição de páginas **WSClock** em linguagem **C**[cite: 11].
-* [cite_start]**Computação Paralela e Concorrente**: Desenvolvimento de um sistema de **Multiplicação de Matrizes Distribuída** (C/Python)[cite: 12].
-* [cite_start]**Processamento Digital de Imagem (Edge AI)**: Integração de redes neurais **YOLO** e técnicas de visão computacional para detecção de objetos[cite: 13, 22].
-* [cite_start]**Ambiente de Dados**: Criação de modelos relacionais e consultas SQL otimizadas em **MySQL**[cite: 14, 21].
-* [cite_start]**Engenharia de Software**: Levantamento de requisitos funcionais e não funcionais com modelagem em **UML**[cite: 15, 25].
+* **Sistemas Operativos (Kernel Level)**: Implementação e análise de desempenho do algoritmo de substituição de páginas **WSClock** em linguagem **C**.
+* **Computação Paralela e Concorrente**: Desenvolvimento de um sistema de **Multiplicação de Matrizes Distribuída** (C/Python).
+* **Processamento Digital de Imagem (Edge AI)**: Integração de redes neurais **YOLO** e técnicas de visão computacional para deteção de objetos.
+* **Ambiente de Dados**: Criação de modelos relacionais e consultas SQL otimizadas em **MySQL**.
+* **Engenharia de Software**: Levantamento de requisitos funcionais e não funcionais com modelagem em **UML**.
 
 ---
 
@@ -42,18 +42,18 @@
 
 | Module | Technical Knowledge | Application |
 | :--- | :--- | :--- |
-| **Kernel & OS** | [cite_start]Memória & Processos [cite: 23] | [cite_start]Algoritmos de escalonamento e paginação[cite: 11]. |
-| **HPC** | [cite_start]Parallel Computing [cite: 12] | [cite_start]Sistemas distribuídos e processamento concorrente[cite: 24]. |
-| **Edge AI** | [cite_start]YOLO & PDI [cite: 22] | [cite_start]Visão computacional aplicada ao baixo nível[cite: 13]. |
-| **Firmware** | Microcontroladores | Desenvolvimento de lógica de controle em tempo real. |
-| **Full Stack** | [cite_start]Web & Mobile [cite: 26] | [cite_start]Apps de precificação e sistemas de gestão (Node.js/PHP)[cite: 18, 26]. |
+| **Kernel & OS** | Memória & Processos | Algoritmos de escalonamento e paginação. |
+| **HPC** | Parallel Computing | Sistemas distribuídos e processamento concorrente. |
+| **Edge AI** | YOLO & PDI | Visão computacional aplicada ao baixo nível. |
+| **Firmware** | Microcontroladores | Desenvolvimento de lógica de controlo em tempo real. |
+| **Full Stack** | Web & Mobile | Apps de precificação e sistemas de gestão (Node.js/PHP). |
 
 ---
 
 ### 🌎 System Language & Connectivity
 
-* [cite_start]**English**: Intermediate Proficiency (v2.0)[cite: 28].
-* [cite_start]**Spanish**: Intermediate Proficiency (v1.5)[cite: 29].
+* **Inglês**: Nível Intermédio (v2.0).
+* **Espanhol**: Nível Intermédio (v1.5).
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-nathan-a83418242/">
