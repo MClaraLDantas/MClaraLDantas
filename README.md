@@ -64,6 +64,9 @@
 </p>
 
 ---
-<p align="center">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Q8IYWJJMsNmUM54xW9/giphy.gif" width="400px" />
+  <br>
   <code>DEBUG: Success! Maria Clara is ready for new engineering challenges.</code>
-</p>
+</div>
