@@ -69,15 +69,6 @@
 
 ---
 
-## 📊 Estatísticas (Engenharia de Performance)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
-</div>
-
----
 <p align="center">
   <i>"Transformando conceitos complexos de hardware em soluções de software eficientes."</i>
 </p>
