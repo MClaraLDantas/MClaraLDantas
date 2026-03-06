@@ -1,6 +1,6 @@
-# Hi, I'm Maria Clara Lopes Dantas 👋
+# Olá, eu sou Maria Clara Lopes Dantas 👋
 
-### Computer Engineering Student | Embedded Systems Enthusiast
+### Estudante de Engenharia de Computação | Entusiasta de Sistemas Embarcados
 
 📍 Fortaleza, Ceará, Brasil  
 📞 (88) 9 8159-8638  
@@ -9,54 +9,54 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 Sobre Mim
 
-I'm a Computer Engineering student at Universidade de Fortaleza, passionate about embedded systems and hardware-software integration. I'm looking for internship opportunities in technology, with a focus on embedded systems development using microcontrollers.
+Sou estudante de Engenharia de Computação na Universidade de Fortaleza, apaixonada por sistemas embarcados e pela integração entre hardware e software. Busco uma oportunidade de estágio na área de tecnologia com foco em desenvolvimento com microcontroladores, onde eu possa aplicar meus conhecimentos e adquirir experiência prática.
 
 ---
 
-## 🛠️ Tech Skills
+## 🛠️ Habilidades Técnicas
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-- 🔧 Embedded systems development (**STM32** & **Arduino**)
-- 📡 Sensor integration & **Bluetooth** modules
-- 🖥️ **PCB** design
+- 🔧 Desenvolvimento de sistemas embarcados (**STM32** e **Arduino**)
+- 📡 Integração com sensores e módulos **Bluetooth**
+- 🖥️ Projeto de **PCB**
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experiência Profissional
 
-**Maintenance Intern – Hospital Equipment** @ Tecmed Cariri *(Jul 2022 – Present)*
-- Assisted in maintenance of complex hospital equipment
-- Performed preventive and corrective maintenance on electronic circuits
-- Wrote maintenance reports and service budget documents
-
----
-
-## 🎓 Education
-
-**B.Eng. Computer Engineering** — Universidade de Fortaleza  
-*Jan 2022 – Dec 2026 (expected)*
+**Estagiária de Manutenção em Equipamentos Hospitalares** @ Tecmed Cariri *(jul/2022 – atual)*
+- Auxílio na manutenção de equipamentos hospitalares de maior complexidade
+- Manutenção preventiva e corretiva de equipamentos e circuitos eletrônicos
+- Redação de relatórios de manutenção e orçamentos dos serviços prestados
 
 ---
 
-## 🏫 Academic Experience
+## 🎓 Formação Acadêmica
 
-**Lapin Study Group** — Universidade de Fortaleza *(Feb – Dec 2022)*  
-Research and development of a remote-controlled robot project.
-
-**Extension Activity: Artesãs da Proart** — Universidade de Fortaleza *(Feb – Jun 2023)*  
-Business strategy consulting for artisan group products — developed during the Entrepreneurship course.
-
-**Extension Activity: Programming Logic Workshop** — IAPS *(Aug – Dec 2023)*  
-Organized and taught JavaScript programming logic to young people from the local community. Due to high interest, a second session was held, and all students received a signed certificate.
+**Engenharia de Computação** — Universidade de Fortaleza  
+*jan/2022 – dez/2026 (previsão)*
 
 ---
 
-## 🤝 Soft Skills
+## 🏫 Experiência Acadêmica
 
-`Analytical Thinking` `Problem Solving` `Organization` `Fast Learner` `Proactivity` `Dedication`
+**Grupo de Estudos Lapin** — Universidade de Fortaleza *(fev – dez/2022)*  
+Pesquisa e desenvolvimento de um robô controlado por controle remoto.
+
+**Atividade Extensionista: Artesãs da Proart** — Universidade de Fortaleza *(fev – jun/2023)*  
+Avaliação de produtos e consultoria em estratégias de negócios para artesãs do grupo Proart, realizada durante a disciplina de Empreendedorismo.
+
+**Atividade Extensionista: Aulão de Lógica de Programação** — IAPS *(ago – dez/2023)*  
+Organização e ministração de aulas de lógica de programação em JavaScript para jovens da comunidade. Devido ao grande interesse dos participantes, um segundo aulão foi realizado, e todos os alunos receberam certificado ao final.
+
+---
+
+## 🤝 Competências Interpessoais
+
+`Pensamento Analítico` `Resolução de Problemas` `Organização` `Facilidade de Aprendizado` `Proatividade` `Dedicação`
